@@ -10,6 +10,7 @@
 
 </br>
 
+<div style="display: 'flex';">
 <img src="assets/html.svg" width="40px" height="40px" style="margin-left: 45px" />
 <img src="assets/css.svg" width="40px" height="40px"/>
 <img src="assets/javascript.svg" width="40px" height="40px" />
@@ -17,7 +18,7 @@
 <img src="assets/node.svg" width="40px" height="40px" />
 <img src="assets/sass.svg" width="40px" height="40px"/>
 <img src="assets/git.svg" width="40px" height="40px"/>
-
+</div>
 </br>
 </br>
 
