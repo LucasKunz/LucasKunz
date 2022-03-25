@@ -2,7 +2,7 @@
 
 ### Hi there, welcome! 👋
 
-- I'm Lucas Kunz, I'm 21 years old and I live in Rio Grande do Sul/BR. Currently, I work with frontend development and studying Systems Analysis and Development at Cruzeiro do Sul University.
+- I'm Lucas Kunz, I'm 22 years old and I live in Rio Grande do Sul/BR. Currently, I work with frontend development and studying Systems Analysis and Development at Cruzeiro do Sul University.
   </br>
   </br>
 
