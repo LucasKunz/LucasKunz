@@ -4,7 +4,7 @@
   </br>
 
 #### 💼 Here are some technologies that I have experience with:
- - HTML5 (Semantic & SEO), CSS3 (SASS), JavaScript, ReactJS, NextJS, Styled Components and NodeJS. 
+ - HTML5 (Semantic & SEO), CSS3 (SASS), JavaScript, ReactJS, NextJS, Styled Components, Tailwind and NodeJS. 
  - Docker, Google Tag Manager (GTM), Google Optimize, Jenkins and Hybris (SAP).
    </br>
 
