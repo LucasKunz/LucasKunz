@@ -1,6 +1,6 @@
 ### 👋 Hi there, welcome! 
 
-- I'm Lucas Kunz, I'm 22 years old and live in Rio Grande do Sul/BR. I currently work with front-end development at Arezzo&Co and have a degree in Systems Analysis and Development from Universidade de Cruzeiro do Sul.
+- I'm Lucas Kunz, I'm 23 years old and live in Rio Grande do Sul/BR. I currently work with front-end development at Arezzo&Co and have a degree in Systems Analysis and Development from Universidade de Cruzeiro do Sul.
   </br>
 
 #### 💼 Here are some technologies that I have experience with:
