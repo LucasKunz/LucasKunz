@@ -11,5 +11,4 @@
 #### 💻 My social media:
 
   - <a href="https://www.linkedin.com/in/lucas-kunz/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-kunz/"  alt="Linkedin" /></a>
-  - <a href="https://www.instagram.com/lucaskunz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaskunz_"   alt="Instagram image" />
   </a>
